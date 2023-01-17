@@ -18,17 +18,17 @@ namespace MP.ApiDotNet6.Infra.Data.Maps
             builder.HasKey(x => x.Id);
             
             builder.Property(c => c.Id)
-                .HasColumnName("IdCompra")
+                .HasColumnName("Idcompra")
                 .UseIdentityColumn();
 
             builder.Property(c => c.ProductId)
-                .HasColumnName("IdProduto");
+                .HasColumnName("Idproduto");
 
             builder.Property(x => x.PersonId)
-                .HasColumnName("IdPessoa");
+                .HasColumnName("Idpessoa");
 
             builder.Property(c => c.Date)
-                .HasColumnName("DataCompra");
+                .HasColumnName("Datacompra");
 
             builder.HasOne(x => x.Person)
                 .WithMany(x => x.Purchases);

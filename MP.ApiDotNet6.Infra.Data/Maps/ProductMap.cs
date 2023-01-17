@@ -18,7 +18,7 @@ namespace MP.ApiDotNet6.Infra.Data.Maps
             builder.HasKey(x => x.Id);
             
             builder.Property(c => c.Id)
-                .HasColumnName("IdProduct")
+                .HasColumnName("Idproduct")
                 .UseIdentityColumn();
 
             builder.Property(c => c.Name)
@@ -28,7 +28,7 @@ namespace MP.ApiDotNet6.Infra.Data.Maps
                 .HasColumnName("Preco");
 
             builder.Property(c => c.CodErp)
-                .HasColumnName("CodErp");
+                .HasColumnName("Coderp");
 
             builder.HasMany(x=> x.Purchases)
                 .WithOne(p => p.Product)

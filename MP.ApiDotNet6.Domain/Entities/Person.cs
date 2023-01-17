@@ -17,7 +17,8 @@ namespace MP.ApiDotNet6.Domain.Entities
         public ICollection<Purchase> Purchases { get; private set; }
         public Person(string document, string phone, string name)
         {
-            Validation(document, name, phone); 
+            Validation(document, name, phone);
+            Purchases = new List<Purchase>();
         }
         public Person(int id,string document, string phone, string name)
         {

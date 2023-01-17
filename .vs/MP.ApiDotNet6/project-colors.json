@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "25b70f2c-e167-485d-b4f0-0f5a8115c87d": {
+      "ProjectGuid": "25b70f2c-e167-485d-b4f0-0f5a8115c87d",
+      "DisplayName": "MP.ApiDotNet6.Application",
+      "ColorIndex": 0
+    },
+    "bbfea69f-72a0-4fc2-a9c9-d8f5a4d30a9d": {
+      "ProjectGuid": "bbfea69f-72a0-4fc2-a9c9-d8f5a4d30a9d",
+      "DisplayName": "MP.ApiDotNet6.Domain",
+      "ColorIndex": 1
+    },
+    "5042d05c-d68a-4c6c-b2dc-5a8f2ab64060": {
+      "ProjectGuid": "5042d05c-d68a-4c6c-b2dc-5a8f2ab64060",
+      "DisplayName": "MP.ApiDotNet6.Infra.Data",
+      "ColorIndex": 2
+    },
+    "8966a562-45ab-4a96-9e44-52630e20dddf": {
+      "ProjectGuid": "8966a562-45ab-4a96-9e44-52630e20dddf",
+      "DisplayName": "MP.ApiDotNet6.Infra.Ioc",
+      "ColorIndex": 3
+    },
+    "269936b6-66b2-4f41-b04b-14b3a551aa97": {
+      "ProjectGuid": "269936b6-66b2-4f41-b04b-14b3a551aa97",
+      "DisplayName": "MP.ApiDotNet6.Api",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

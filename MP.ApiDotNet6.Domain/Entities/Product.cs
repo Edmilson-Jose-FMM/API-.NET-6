@@ -17,6 +17,7 @@ namespace MP.ApiDotNet6.Domain.Entities
         public Product(string coderp, decimal price, string name)
         {
             Validation(coderp, price,name);
+            Purchases = new List<Purchase>();
         }
         public Product(int id,string coderp, decimal price, string name)
         {

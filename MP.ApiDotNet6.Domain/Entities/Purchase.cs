@@ -15,17 +15,18 @@ namespace MP.ApiDotNet6.Domain.Entities
         public DateTime Date { get; private set; }
         public Person Person { get; set; }
         public Product Product { get; set; }
-        public Purchase(int productId, int personId, DateTime date)
+        public Purchase(int productId, int personId)
         {
+            Validation(productId, personId);
         }
-        private void Validation(int productId, int personId, DateTime? date)
+        private void Validation(int productId, int personId)
         {
             DomainValidationException.When(productId<0, "Nome deve ser informado");
             DomainValidationException.When(personId<0, "Documento deve ser informado");
-            DomainValidationException.When(!date.HasValue, "Celular deve ser informado");
+           
             ProductId = productId;
             PersonId = personId;
-            Date = date.Value;
+            Date = DateTime.Now;
         }
 
     }
