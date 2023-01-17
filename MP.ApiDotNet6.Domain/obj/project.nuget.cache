@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7XCBTCVo8n08ILqc+jsKMg9NeIsHpUWftJyONzd3jvfPwLKsCYr2ElI5vcw3GWGUGGWOf+oMDybPpdXXYUWuyQ==",
+  "dgSpecHash": "Su3uvY5Ii90c9eXWLKfAS5I3BiFR7lCcunQisyn2zUXqvJ3AO1MKSUozxUirjN+XuT74sEfrcbgt5/gn3b0HCw==",
   "success": true,
-  "projectFilePath": "E:\\Projetos Ed\\MP.ApiDotNet6\\MP.ApiDotNet6\\MP.ApiDotNet6.Domain\\MP.ApiDotNet6.Domain.csproj",
+  "projectFilePath": "C:\\Users\\edmilson.junior\\Documents\\API-.NET-6\\MP.ApiDotNet6.Domain\\MP.ApiDotNet6.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

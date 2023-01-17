@@ -1,23 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Projetos Ed\\MP.ApiDotNet6\\MP.ApiDotNet6\\MP.ApiDotNet6.Domain\\MP.ApiDotNet6.Domain.csproj": {}
+    "C:\\Users\\edmilson.junior\\Documents\\API-.NET-6\\MP.ApiDotNet6.Domain\\MP.ApiDotNet6.Domain.csproj": {}
   },
   "projects": {
-    "E:\\Projetos Ed\\MP.ApiDotNet6\\MP.ApiDotNet6\\MP.ApiDotNet6.Domain\\MP.ApiDotNet6.Domain.csproj": {
+    "C:\\Users\\edmilson.junior\\Documents\\API-.NET-6\\MP.ApiDotNet6.Domain\\MP.ApiDotNet6.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Projetos Ed\\MP.ApiDotNet6\\MP.ApiDotNet6\\MP.ApiDotNet6.Domain\\MP.ApiDotNet6.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\edmilson.junior\\Documents\\API-.NET-6\\MP.ApiDotNet6.Domain\\MP.ApiDotNet6.Domain.csproj",
         "projectName": "MP.ApiDotNet6.Domain",
-        "projectPath": "E:\\Projetos Ed\\MP.ApiDotNet6\\MP.ApiDotNet6\\MP.ApiDotNet6.Domain\\MP.ApiDotNet6.Domain.csproj",
-        "packagesPath": "C:\\Users\\Edmilson Junior\\.nuget\\packages\\",
-        "outputPath": "E:\\Projetos Ed\\MP.ApiDotNet6\\MP.ApiDotNet6\\MP.ApiDotNet6.Domain\\obj\\",
+        "projectPath": "C:\\Users\\edmilson.junior\\Documents\\API-.NET-6\\MP.ApiDotNet6.Domain\\MP.ApiDotNet6.Domain.csproj",
+        "packagesPath": "C:\\Users\\edmilson.junior\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\edmilson.junior\\Documents\\API-.NET-6\\MP.ApiDotNet6.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Edmilson Junior\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\edmilson.junior\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -57,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }
