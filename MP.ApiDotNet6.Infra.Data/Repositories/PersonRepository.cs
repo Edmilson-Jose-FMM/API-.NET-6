@@ -40,12 +40,12 @@ namespace MP.ApiDotNet6.Infra.Data.Repositories
 
         public Task<Person> GetByIdAsync(int id)
         {
-            return _db.People.FirstOrDefaultAsync(x => x.Id == id);
+            return _db.Person.FirstOrDefaultAsync(x => x.Id == id);
         }
 
         public async Task<ICollection<Person>> GetPeopleAsync()
         {
-            return await _db.People.ToListAsync();
+            return await _db.Person.ToListAsync();
         }
     }
 }

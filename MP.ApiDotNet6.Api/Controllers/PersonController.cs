@@ -8,14 +8,13 @@ namespace MP.ApiDotNet6.Api.Controllers
     [ApiController]
     public class PersonController :ControllerBase 
     {
-        
         private readonly IPersonService _personService;
         public PersonController(IPersonService personService)
         {
             _personService = personService;
         }
 
-        [HttpGet]
+        [HttpPost]
         public async Task<ActionResult> Post([FromBody] PersonDTO personDTO)
         {
             var result = await _personService.CreateAsync(personDTO);

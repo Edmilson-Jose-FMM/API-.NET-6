@@ -21,7 +21,7 @@ namespace MP.ApiDotNet6.Infra.Ioc
         public static IServiceCollection AddInfratruture(this IServiceCollection services, IConfiguration configuration) {
 
             services.AddDbContext<ApplicationDbContext>(options => 
-                                                        options.UseNpgsql(configuration.GetConnectionString("")));
+                                                        options.UseNpgsql(configuration.GetConnectionString("DefaultConnection")));
             
             services.AddScoped<IPersonRepository, PersonRepository>();
             return services;

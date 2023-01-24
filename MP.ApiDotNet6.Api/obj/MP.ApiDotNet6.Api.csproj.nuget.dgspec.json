@@ -1,24 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\edmilson.junior\\Documents\\API-.NET-6\\MP.ApiDotNet6.Api\\MP.ApiDotNet6.Api.csproj": {}
+    "E:\\Projetos Ed\\MP.ApiDotNet6\\MP.ApiDotNet6\\MP.ApiDotNet6.Api\\MP.ApiDotNet6.Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\edmilson.junior\\Documents\\API-.NET-6\\MP.ApiDotNet6.Api\\MP.ApiDotNet6.Api.csproj": {
+    "E:\\Projetos Ed\\MP.ApiDotNet6\\MP.ApiDotNet6\\MP.ApiDotNet6.Api\\MP.ApiDotNet6.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\edmilson.junior\\Documents\\API-.NET-6\\MP.ApiDotNet6.Api\\MP.ApiDotNet6.Api.csproj",
+        "projectUniqueName": "E:\\Projetos Ed\\MP.ApiDotNet6\\MP.ApiDotNet6\\MP.ApiDotNet6.Api\\MP.ApiDotNet6.Api.csproj",
         "projectName": "MP.ApiDotNet6.Api",
-        "projectPath": "C:\\Users\\edmilson.junior\\Documents\\API-.NET-6\\MP.ApiDotNet6.Api\\MP.ApiDotNet6.Api.csproj",
-        "packagesPath": "C:\\Users\\edmilson.junior\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\edmilson.junior\\Documents\\API-.NET-6\\MP.ApiDotNet6.Api\\obj\\",
+        "projectPath": "E:\\Projetos Ed\\MP.ApiDotNet6\\MP.ApiDotNet6\\MP.ApiDotNet6.Api\\MP.ApiDotNet6.Api.csproj",
+        "packagesPath": "C:\\Users\\Edmilson Junior\\.nuget\\packages\\",
+        "outputPath": "E:\\Projetos Ed\\MP.ApiDotNet6\\MP.ApiDotNet6\\MP.ApiDotNet6.Api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\edmilson.junior\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Edmilson Junior\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -32,8 +31,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\edmilson.junior\\Documents\\API-.NET-6\\MP.ApiDotNet6.Infra.Ioc\\MP.ApiDotNet6.Infra.Ioc.csproj": {
-                "projectPath": "C:\\Users\\edmilson.junior\\Documents\\API-.NET-6\\MP.ApiDotNet6.Infra.Ioc\\MP.ApiDotNet6.Infra.Ioc.csproj"
+              "E:\\Projetos Ed\\MP.ApiDotNet6\\MP.ApiDotNet6\\MP.ApiDotNet6.Infra.Ioc\\MP.ApiDotNet6.Infra.Ioc.csproj": {
+                "projectPath": "E:\\Projetos Ed\\MP.ApiDotNet6\\MP.ApiDotNet6\\MP.ApiDotNet6.Infra.Ioc\\MP.ApiDotNet6.Infra.Ioc.csproj"
               }
             }
           }
@@ -71,25 +70,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\edmilson.junior\\Documents\\API-.NET-6\\MP.ApiDotNet6.Application\\MP.ApiDotNet6.Application.csproj": {
+    "E:\\Projetos Ed\\MP.ApiDotNet6\\MP.ApiDotNet6\\MP.ApiDotNet6.Application\\MP.ApiDotNet6.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\edmilson.junior\\Documents\\API-.NET-6\\MP.ApiDotNet6.Application\\MP.ApiDotNet6.Application.csproj",
+        "projectUniqueName": "E:\\Projetos Ed\\MP.ApiDotNet6\\MP.ApiDotNet6\\MP.ApiDotNet6.Application\\MP.ApiDotNet6.Application.csproj",
         "projectName": "MP.ApiDotNet6.Application",
-        "projectPath": "C:\\Users\\edmilson.junior\\Documents\\API-.NET-6\\MP.ApiDotNet6.Application\\MP.ApiDotNet6.Application.csproj",
-        "packagesPath": "C:\\Users\\edmilson.junior\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\edmilson.junior\\Documents\\API-.NET-6\\MP.ApiDotNet6.Application\\obj\\",
+        "projectPath": "E:\\Projetos Ed\\MP.ApiDotNet6\\MP.ApiDotNet6\\MP.ApiDotNet6.Application\\MP.ApiDotNet6.Application.csproj",
+        "packagesPath": "C:\\Users\\Edmilson Junior\\.nuget\\packages\\",
+        "outputPath": "E:\\Projetos Ed\\MP.ApiDotNet6\\MP.ApiDotNet6\\MP.ApiDotNet6.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\edmilson.junior\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Edmilson Junior\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -103,8 +101,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\edmilson.junior\\Documents\\API-.NET-6\\MP.ApiDotNet6.Domain\\MP.ApiDotNet6.Domain.csproj": {
-                "projectPath": "C:\\Users\\edmilson.junior\\Documents\\API-.NET-6\\MP.ApiDotNet6.Domain\\MP.ApiDotNet6.Domain.csproj"
+              "E:\\Projetos Ed\\MP.ApiDotNet6\\MP.ApiDotNet6\\MP.ApiDotNet6.Domain\\MP.ApiDotNet6.Domain.csproj": {
+                "projectPath": "E:\\Projetos Ed\\MP.ApiDotNet6\\MP.ApiDotNet6\\MP.ApiDotNet6.Domain\\MP.ApiDotNet6.Domain.csproj"
               }
             }
           }
@@ -143,25 +141,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\edmilson.junior\\Documents\\API-.NET-6\\MP.ApiDotNet6.Domain\\MP.ApiDotNet6.Domain.csproj": {
+    "E:\\Projetos Ed\\MP.ApiDotNet6\\MP.ApiDotNet6\\MP.ApiDotNet6.Domain\\MP.ApiDotNet6.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\edmilson.junior\\Documents\\API-.NET-6\\MP.ApiDotNet6.Domain\\MP.ApiDotNet6.Domain.csproj",
+        "projectUniqueName": "E:\\Projetos Ed\\MP.ApiDotNet6\\MP.ApiDotNet6\\MP.ApiDotNet6.Domain\\MP.ApiDotNet6.Domain.csproj",
         "projectName": "MP.ApiDotNet6.Domain",
-        "projectPath": "C:\\Users\\edmilson.junior\\Documents\\API-.NET-6\\MP.ApiDotNet6.Domain\\MP.ApiDotNet6.Domain.csproj",
-        "packagesPath": "C:\\Users\\edmilson.junior\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\edmilson.junior\\Documents\\API-.NET-6\\MP.ApiDotNet6.Domain\\obj\\",
+        "projectPath": "E:\\Projetos Ed\\MP.ApiDotNet6\\MP.ApiDotNet6\\MP.ApiDotNet6.Domain\\MP.ApiDotNet6.Domain.csproj",
+        "packagesPath": "C:\\Users\\Edmilson Junior\\.nuget\\packages\\",
+        "outputPath": "E:\\Projetos Ed\\MP.ApiDotNet6\\MP.ApiDotNet6\\MP.ApiDotNet6.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\edmilson.junior\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Edmilson Junior\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -201,25 +198,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\edmilson.junior\\Documents\\API-.NET-6\\MP.ApiDotNet6.Infra.Data\\MP.ApiDotNet6.Infra.Data.csproj": {
+    "E:\\Projetos Ed\\MP.ApiDotNet6\\MP.ApiDotNet6\\MP.ApiDotNet6.Infra.Data\\MP.ApiDotNet6.Infra.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\edmilson.junior\\Documents\\API-.NET-6\\MP.ApiDotNet6.Infra.Data\\MP.ApiDotNet6.Infra.Data.csproj",
+        "projectUniqueName": "E:\\Projetos Ed\\MP.ApiDotNet6\\MP.ApiDotNet6\\MP.ApiDotNet6.Infra.Data\\MP.ApiDotNet6.Infra.Data.csproj",
         "projectName": "MP.ApiDotNet6.Infra.Data",
-        "projectPath": "C:\\Users\\edmilson.junior\\Documents\\API-.NET-6\\MP.ApiDotNet6.Infra.Data\\MP.ApiDotNet6.Infra.Data.csproj",
-        "packagesPath": "C:\\Users\\edmilson.junior\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\edmilson.junior\\Documents\\API-.NET-6\\MP.ApiDotNet6.Infra.Data\\obj\\",
+        "projectPath": "E:\\Projetos Ed\\MP.ApiDotNet6\\MP.ApiDotNet6\\MP.ApiDotNet6.Infra.Data\\MP.ApiDotNet6.Infra.Data.csproj",
+        "packagesPath": "C:\\Users\\Edmilson Junior\\.nuget\\packages\\",
+        "outputPath": "E:\\Projetos Ed\\MP.ApiDotNet6\\MP.ApiDotNet6\\MP.ApiDotNet6.Infra.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\edmilson.junior\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Edmilson Junior\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -233,8 +229,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\edmilson.junior\\Documents\\API-.NET-6\\MP.ApiDotNet6.Domain\\MP.ApiDotNet6.Domain.csproj": {
-                "projectPath": "C:\\Users\\edmilson.junior\\Documents\\API-.NET-6\\MP.ApiDotNet6.Domain\\MP.ApiDotNet6.Domain.csproj"
+              "E:\\Projetos Ed\\MP.ApiDotNet6\\MP.ApiDotNet6\\MP.ApiDotNet6.Domain\\MP.ApiDotNet6.Domain.csproj": {
+                "projectPath": "E:\\Projetos Ed\\MP.ApiDotNet6\\MP.ApiDotNet6\\MP.ApiDotNet6.Domain\\MP.ApiDotNet6.Domain.csproj"
               }
             }
           }
@@ -277,25 +273,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\edmilson.junior\\Documents\\API-.NET-6\\MP.ApiDotNet6.Infra.Ioc\\MP.ApiDotNet6.Infra.Ioc.csproj": {
+    "E:\\Projetos Ed\\MP.ApiDotNet6\\MP.ApiDotNet6\\MP.ApiDotNet6.Infra.Ioc\\MP.ApiDotNet6.Infra.Ioc.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\edmilson.junior\\Documents\\API-.NET-6\\MP.ApiDotNet6.Infra.Ioc\\MP.ApiDotNet6.Infra.Ioc.csproj",
+        "projectUniqueName": "E:\\Projetos Ed\\MP.ApiDotNet6\\MP.ApiDotNet6\\MP.ApiDotNet6.Infra.Ioc\\MP.ApiDotNet6.Infra.Ioc.csproj",
         "projectName": "MP.ApiDotNet6.Infra.Ioc",
-        "projectPath": "C:\\Users\\edmilson.junior\\Documents\\API-.NET-6\\MP.ApiDotNet6.Infra.Ioc\\MP.ApiDotNet6.Infra.Ioc.csproj",
-        "packagesPath": "C:\\Users\\edmilson.junior\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\edmilson.junior\\Documents\\API-.NET-6\\MP.ApiDotNet6.Infra.Ioc\\obj\\",
+        "projectPath": "E:\\Projetos Ed\\MP.ApiDotNet6\\MP.ApiDotNet6\\MP.ApiDotNet6.Infra.Ioc\\MP.ApiDotNet6.Infra.Ioc.csproj",
+        "packagesPath": "C:\\Users\\Edmilson Junior\\.nuget\\packages\\",
+        "outputPath": "E:\\Projetos Ed\\MP.ApiDotNet6\\MP.ApiDotNet6\\MP.ApiDotNet6.Infra.Ioc\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\edmilson.junior\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Edmilson Junior\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -309,14 +304,14 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\edmilson.junior\\Documents\\API-.NET-6\\MP.ApiDotNet6.Application\\MP.ApiDotNet6.Application.csproj": {
-                "projectPath": "C:\\Users\\edmilson.junior\\Documents\\API-.NET-6\\MP.ApiDotNet6.Application\\MP.ApiDotNet6.Application.csproj"
+              "E:\\Projetos Ed\\MP.ApiDotNet6\\MP.ApiDotNet6\\MP.ApiDotNet6.Application\\MP.ApiDotNet6.Application.csproj": {
+                "projectPath": "E:\\Projetos Ed\\MP.ApiDotNet6\\MP.ApiDotNet6\\MP.ApiDotNet6.Application\\MP.ApiDotNet6.Application.csproj"
               },
-              "C:\\Users\\edmilson.junior\\Documents\\API-.NET-6\\MP.ApiDotNet6.Domain\\MP.ApiDotNet6.Domain.csproj": {
-                "projectPath": "C:\\Users\\edmilson.junior\\Documents\\API-.NET-6\\MP.ApiDotNet6.Domain\\MP.ApiDotNet6.Domain.csproj"
+              "E:\\Projetos Ed\\MP.ApiDotNet6\\MP.ApiDotNet6\\MP.ApiDotNet6.Domain\\MP.ApiDotNet6.Domain.csproj": {
+                "projectPath": "E:\\Projetos Ed\\MP.ApiDotNet6\\MP.ApiDotNet6\\MP.ApiDotNet6.Domain\\MP.ApiDotNet6.Domain.csproj"
               },
-              "C:\\Users\\edmilson.junior\\Documents\\API-.NET-6\\MP.ApiDotNet6.Infra.Data\\MP.ApiDotNet6.Infra.Data.csproj": {
-                "projectPath": "C:\\Users\\edmilson.junior\\Documents\\API-.NET-6\\MP.ApiDotNet6.Infra.Data\\MP.ApiDotNet6.Infra.Data.csproj"
+              "E:\\Projetos Ed\\MP.ApiDotNet6\\MP.ApiDotNet6\\MP.ApiDotNet6.Infra.Data\\MP.ApiDotNet6.Infra.Data.csproj": {
+                "projectPath": "E:\\Projetos Ed\\MP.ApiDotNet6\\MP.ApiDotNet6\\MP.ApiDotNet6.Infra.Data\\MP.ApiDotNet6.Infra.Data.csproj"
               }
             }
           }
@@ -351,7 +346,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

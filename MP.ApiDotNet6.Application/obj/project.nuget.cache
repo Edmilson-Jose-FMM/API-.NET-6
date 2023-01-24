@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "hd6oCU4gQ2sULaBibajg2Rom/p1DEpN8+MiFB54Khegp0qEnLhXQJPEylmauHiJNcDXbcgw2KNp9BFTK2zxMWA==",
+  "dgSpecHash": "SGbQn+OYAYXzJsuNjuBoxP4aNJXHk2TL8SC0nVpbBqtzaSjiz0hFf2Ev3ykM7L0kcBSo9T1liFEm/8vbImw6kw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\edmilson.junior\\Documents\\API-.NET-6\\MP.ApiDotNet6.Application\\MP.ApiDotNet6.Application.csproj",
+  "projectFilePath": "E:\\Projetos Ed\\MP.ApiDotNet6\\MP.ApiDotNet6\\MP.ApiDotNet6.Application\\MP.ApiDotNet6.Application.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\edmilson.junior\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
-    "C:\\Users\\edmilson.junior\\.nuget\\packages\\fluentvalidation\\10.3.6\\fluentvalidation.10.3.6.nupkg.sha512",
-    "C:\\Users\\edmilson.junior\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+    "C:\\Users\\Edmilson Junior\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
+    "C:\\Users\\Edmilson Junior\\.nuget\\packages\\fluentvalidation\\10.3.6\\fluentvalidation.10.3.6.nupkg.sha512",
+    "C:\\Users\\Edmilson Junior\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
   ],
   "logs": []
 }

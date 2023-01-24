@@ -16,7 +16,7 @@ namespace MP.ApiDotNet6.Domain.Entities
         public ICollection<Purchase> Purchases { get; set; }
         public Product(string coderp, decimal price, string name)
         {
-            Validation(coderp, price,name);
+            Validation(coderp, price, name);
             Purchases = new List<Purchase>();
         }
         public Product(int id,string coderp, decimal price, string name)
@@ -24,6 +24,7 @@ namespace MP.ApiDotNet6.Domain.Entities
             DomainValidationException.When(id < 0, "Id do produto deve ser informado");
             Id= id;
             Validation(coderp, price, name);
+            Purchases = new List<Purchase>();
         }
 
         public void Validation(string coderp, decimal price, string name)
