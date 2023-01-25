@@ -5567,11 +5567,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Projetos Ed\\MP.ApiDotNet6\\MP.ApiDotNet6\\MP.ApiDotNet6.Api\\MP.ApiDotNet6.Api.csproj",
+      "projectUniqueName": "E:\\Projetos Ed\\API-.NET-6\\MP.ApiDotNet6.Api\\MP.ApiDotNet6.Api.csproj",
       "projectName": "MP.ApiDotNet6.Api",
-      "projectPath": "E:\\Projetos Ed\\MP.ApiDotNet6\\MP.ApiDotNet6\\MP.ApiDotNet6.Api\\MP.ApiDotNet6.Api.csproj",
+      "projectPath": "E:\\Projetos Ed\\API-.NET-6\\MP.ApiDotNet6.Api\\MP.ApiDotNet6.Api.csproj",
       "packagesPath": "C:\\Users\\Edmilson Junior\\.nuget\\packages\\",
-      "outputPath": "E:\\Projetos Ed\\MP.ApiDotNet6\\MP.ApiDotNet6\\MP.ApiDotNet6.Api\\obj\\",
+      "outputPath": "E:\\Projetos Ed\\API-.NET-6\\MP.ApiDotNet6.Api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5591,8 +5591,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "E:\\Projetos Ed\\MP.ApiDotNet6\\MP.ApiDotNet6\\MP.ApiDotNet6.Infra.Ioc\\MP.ApiDotNet6.Infra.Ioc.csproj": {
-              "projectPath": "E:\\Projetos Ed\\MP.ApiDotNet6\\MP.ApiDotNet6\\MP.ApiDotNet6.Infra.Ioc\\MP.ApiDotNet6.Infra.Ioc.csproj"
+            "E:\\Projetos Ed\\API-.NET-6\\MP.ApiDotNet6.Infra.Ioc\\MP.ApiDotNet6.Infra.Ioc.csproj": {
+              "projectPath": "E:\\Projetos Ed\\API-.NET-6\\MP.ApiDotNet6.Infra.Ioc\\MP.ApiDotNet6.Infra.Ioc.csproj"
             }
           }
         }

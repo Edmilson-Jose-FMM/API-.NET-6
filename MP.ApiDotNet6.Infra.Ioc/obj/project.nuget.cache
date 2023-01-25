@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uzypm1UlJv4WD9fzwaMREM9z5Y7YrDwIzNn+bNrUsL5s/Aunv/4AlKUaQ2kczNKspTsfB1xuDgAgqp6VEyjHfg==",
+  "dgSpecHash": "gsIfAVL99LZTbxegb2RY1GYgvw8OBVvEmpIsoeJAvSDo6filC8Ew/OtFjBEZqjeHN2k/OaJOJyzIOBq1/zGQGg==",
   "success": true,
-  "projectFilePath": "E:\\Projetos Ed\\MP.ApiDotNet6\\MP.ApiDotNet6\\MP.ApiDotNet6.Infra.Ioc\\MP.ApiDotNet6.Infra.Ioc.csproj",
+  "projectFilePath": "E:\\Projetos Ed\\API-.NET-6\\MP.ApiDotNet6.Infra.Ioc\\MP.ApiDotNet6.Infra.Ioc.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Edmilson Junior\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
     "C:\\Users\\Edmilson Junior\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",

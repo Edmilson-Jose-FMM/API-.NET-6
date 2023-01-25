@@ -25,6 +25,7 @@ namespace MP.ApiDotNet6.Domain.Entities
             DomainValidationException.When(Id<0,"Id deve ser maior que zero");
             Id = id;
             Validation(document, name, phone);
+            Purchases = new List<Purchase>();
             
         }
         private void Validation(string document, string name, string phone)

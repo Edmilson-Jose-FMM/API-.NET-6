@@ -19,6 +19,10 @@ namespace MP.ApiDotNet6.Domain.Entities
         {
             Validation(productId, personId);
         }
+        public Purchase()
+        {
+
+        }
 
         public Purchase(int id, int productId, int personId)
         {

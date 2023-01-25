@@ -22,3 +22,15 @@ E:\Projetos Ed\MP.ApiDotNet6\MP.ApiDotNet6\MP.ApiDotNet6.Domain\obj\Debug\net6.0
 E:\Projetos Ed\MP.ApiDotNet6\MP.ApiDotNet6\MP.ApiDotNet6.Domain\obj\Debug\net6.0\MP.ApiDotNet6.Domain.dll
 E:\Projetos Ed\MP.ApiDotNet6\MP.ApiDotNet6\MP.ApiDotNet6.Domain\obj\Debug\net6.0\ref\MP.ApiDotNet6.Domain.dll
 E:\Projetos Ed\MP.ApiDotNet6\MP.ApiDotNet6\MP.ApiDotNet6.Domain\obj\Debug\net6.0\MP.ApiDotNet6.Domain.pdb
+E:\Projetos Ed\API-.NET-6\MP.ApiDotNet6.Domain\bin\Debug\net6.0\MP.ApiDotNet6.Domain.deps.json
+E:\Projetos Ed\API-.NET-6\MP.ApiDotNet6.Domain\bin\Debug\net6.0\MP.ApiDotNet6.Domain.dll
+E:\Projetos Ed\API-.NET-6\MP.ApiDotNet6.Domain\bin\Debug\net6.0\ref\MP.ApiDotNet6.Domain.dll
+E:\Projetos Ed\API-.NET-6\MP.ApiDotNet6.Domain\bin\Debug\net6.0\MP.ApiDotNet6.Domain.pdb
+E:\Projetos Ed\API-.NET-6\MP.ApiDotNet6.Domain\obj\Debug\net6.0\MP.ApiDotNet6.Domain.csproj.AssemblyReference.cache
+E:\Projetos Ed\API-.NET-6\MP.ApiDotNet6.Domain\obj\Debug\net6.0\MP.ApiDotNet6.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projetos Ed\API-.NET-6\MP.ApiDotNet6.Domain\obj\Debug\net6.0\MP.ApiDotNet6.Domain.AssemblyInfoInputs.cache
+E:\Projetos Ed\API-.NET-6\MP.ApiDotNet6.Domain\obj\Debug\net6.0\MP.ApiDotNet6.Domain.AssemblyInfo.cs
+E:\Projetos Ed\API-.NET-6\MP.ApiDotNet6.Domain\obj\Debug\net6.0\MP.ApiDotNet6.Domain.csproj.CoreCompileInputs.cache
+E:\Projetos Ed\API-.NET-6\MP.ApiDotNet6.Domain\obj\Debug\net6.0\MP.ApiDotNet6.Domain.dll
+E:\Projetos Ed\API-.NET-6\MP.ApiDotNet6.Domain\obj\Debug\net6.0\ref\MP.ApiDotNet6.Domain.dll
+E:\Projetos Ed\API-.NET-6\MP.ApiDotNet6.Domain\obj\Debug\net6.0\MP.ApiDotNet6.Domain.pdb

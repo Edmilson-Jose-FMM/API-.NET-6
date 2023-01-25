@@ -14,23 +14,23 @@ namespace MP.ApiDotNet6.Domain.Entities
         public string CodErp { get; private set; }
         public decimal Price { get; private set; }
         public ICollection<Purchase> Purchases { get; set; }
-        public Product(string coderp, decimal price, string name)
+        public Product(string name, decimal price)
         {
-            Validation(coderp, price, name);
+            //Validation(coderp, price, name);
             Purchases = new List<Purchase>();
         }
-        public Product(int id,string coderp, decimal price, string name)
+        public Product(int id,string name, decimal price)
         {
             DomainValidationException.When(id < 0, "Id do produto deve ser informado");
             Id= id;
-            Validation(coderp, price, name);
+          //  Validation(coderp, price, name);
             Purchases = new List<Purchase>();
         }
 
         public void Validation(string coderp, decimal price, string name)
         {
             DomainValidationException.When(string.IsNullOrEmpty(coderp), "CodErp deve ser Informado");
-            DomainValidationException.When(string.IsNullOrEmpty(Name), "Nome deve ser Informado");
+            DomainValidationException.When(string.IsNullOrEmpty(name), "Nome deve ser Informado");
             DomainValidationException.When(price<0, "Preço deve ser Informado");
             Name = name;
             Price = price;

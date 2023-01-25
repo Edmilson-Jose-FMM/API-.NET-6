@@ -18,17 +18,18 @@ namespace MP.ApiDotNet6.Infra.Data.Maps
             builder.HasKey(c => c.Id);
             
             builder.Property(c => c.Id)
-                .HasColumnName("idproduct")
+                .HasColumnName("idproduto")
                 .UseIdentityColumn();
 
             builder.Property(c => c.Name)
                 .HasColumnName("nome");
 
-            builder.Property(c => c.Price)
-                .HasColumnName("preco");
-
             builder.Property(c => c.CodErp)
                 .HasColumnName("coderp");
+
+            builder.Property(c => c.Price)
+              .HasColumnName("preco");
+
 
             builder.HasMany(c=> c.Purchases)
                 .WithOne(p => p.Product)

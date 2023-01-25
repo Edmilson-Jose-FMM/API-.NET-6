@@ -170,11 +170,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Projetos Ed\\MP.ApiDotNet6\\MP.ApiDotNet6\\MP.ApiDotNet6.Application\\MP.ApiDotNet6.Application.csproj",
+      "projectUniqueName": "E:\\Projetos Ed\\API-.NET-6\\MP.ApiDotNet6.Application\\MP.ApiDotNet6.Application.csproj",
       "projectName": "MP.ApiDotNet6.Application",
-      "projectPath": "E:\\Projetos Ed\\MP.ApiDotNet6\\MP.ApiDotNet6\\MP.ApiDotNet6.Application\\MP.ApiDotNet6.Application.csproj",
+      "projectPath": "E:\\Projetos Ed\\API-.NET-6\\MP.ApiDotNet6.Application\\MP.ApiDotNet6.Application.csproj",
       "packagesPath": "C:\\Users\\Edmilson Junior\\.nuget\\packages\\",
-      "outputPath": "E:\\Projetos Ed\\MP.ApiDotNet6\\MP.ApiDotNet6\\MP.ApiDotNet6.Application\\obj\\",
+      "outputPath": "E:\\Projetos Ed\\API-.NET-6\\MP.ApiDotNet6.Application\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -194,8 +194,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "E:\\Projetos Ed\\MP.ApiDotNet6\\MP.ApiDotNet6\\MP.ApiDotNet6.Domain\\MP.ApiDotNet6.Domain.csproj": {
-              "projectPath": "E:\\Projetos Ed\\MP.ApiDotNet6\\MP.ApiDotNet6\\MP.ApiDotNet6.Domain\\MP.ApiDotNet6.Domain.csproj"
+            "E:\\Projetos Ed\\API-.NET-6\\MP.ApiDotNet6.Domain\\MP.ApiDotNet6.Domain.csproj": {
+              "projectPath": "E:\\Projetos Ed\\API-.NET-6\\MP.ApiDotNet6.Domain\\MP.ApiDotNet6.Domain.csproj"
             }
           }
         }
